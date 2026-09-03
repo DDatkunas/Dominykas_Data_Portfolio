@@ -17,4 +17,12 @@
 ![Google Docs](https://img.shields.io/badge/Google_Docs-4285F4?style=flat&logo=googledocs&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoftword&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
+Welcome! This repository contains collection of projects, showcasing my skills in the field of data analytics. Here I demonstrate my ability to extract data-based and actionable insights.
+
+## Table of Contents
+- Project 1: Financial Growth Audit for B2B SaaS Company
+- Project 2: Time of Conversion Analysis for an E-Commerce Company
+- Project 3: Cardiovascular Disease Predictive Modelling
+- Project 4: CLV analysis for an E-Commerce Site
