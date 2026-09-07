@@ -26,3 +26,12 @@ Welcome! This repository contains collection of projects, showcasing my skills i
 - Project 2: Time of Conversion Analysis for an E-Commerce Company
 - Project 3: Cardiovascular Disease Predictive Modelling
 - Project 4: CLV analysis for an E-Commerce Site
+
+## Project 1: Financial Growth Audit for B2B SaaS Company
+The goal of this project was to find where the profit loss is occurring and where is the company's most feasible avenues for growth, was transformed using Pandas and loaded into BigQuery SQL to perform analysis. 
+
+The results of the analysis are found inside the report and PowerBI dashboard.
+
+## Project 2: Time of Conversion Analysis for an E-Commerce Company
+## Project 3: Cardiovascular Disease Predictive Modelling
+## Project 4: CLV analysis for an E-Commerce Site
