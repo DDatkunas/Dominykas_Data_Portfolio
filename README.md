@@ -29,12 +29,14 @@ Welcome! This repository contains collection of projects, showcasing my skills i
 - [Project 1: Financial Growth Audit for B2B SaaS Company](https://github.com/DDatkunas/Capstone-Project)
 - [Project 2: Time of Conversion Analysis for an E-Commerce Company](https://github.com/DDatkunas/Product-Analysis)
 - [Project 3: Cardiovascular Disease Predictive Modelling](https://github.com/DDatkunas/Cardiovascular-Disease-Predictive-Modelling)
-- [Project 4: CLV analysis for an E-Commerce Site]
+- [Project 4: CLV analysis for an E-Commerce Site](https://github.com/DDatkunas/CLV-Analysis)
 ---
 ## [Project 1: Financial Growth Audit for B2B SaaS Company](https://github.com/DDatkunas/Capstone-Project)
 The goal of this project was to find where the profit loss is occurring and what are the most feasible avenues for growth, for a fictional B2B SaaS company. The audit was completed by implementing the techniques of data exploration, customer segmentation, cohort analysis, CLV metrics and A/B testing.
 
 The results of the analysis are found inside the report and PowerBI dashboard.
+
+<img width="827" height="461" alt="image" src="https://github.com/user-attachments/assets/fcacdf66-fbbd-4899-8874-0cff736b33a8" />
 
 ---
 ## [Project 2: Time of Conversion Analysis for an E-Commerce Company](https://github.com/DDatkunas/Product-Analysis)
@@ -42,9 +44,20 @@ The project evaluates how much time it takes for a user to make a purchase on a 
 
 Check out the PowerBI dashboard for the full results of this analysis.
 
+<img width="947" height="529" alt="image" src="https://github.com/user-attachments/assets/a03232c0-38ef-476e-934c-1666d0f57c0d" />
+
 ---
 ## [Project 3: Cardiovascular Disease Predictive Modelling](https://github.com/DDatkunas/Cardiovascular-Disease-Predictive-Modelling)
 This project analyzes patient clinical data from the Framingham Heart Study to build a logistic regression model predicting 10-year coronary heart disease risk. I've chose to optimise for high recall as the system acts as an early warning tool to minimize missed cardiovascular cases in high-risk individuals.
 
+<img width="568" height="608" alt="image" src="https://github.com/user-attachments/assets/d0b3ec49-99ab-4a1e-97f5-f64ce4d92f3c" />
+
 ---
-## [Project 4: CLV analysis for an E-Commerce Site]
+## [Project 4: CLV analysis for an E-Commerce Site](https://github.com/DDatkunas/CLV-Analysis)
+
+This analysis looks at three months of weekly e-commerce cohort data from November through January to track long-term Customer Lifetime Value (CLV).
+
+Results of the analysis can be found in a Excel dashboard.
+
+<img width="731" height="540" alt="image" src="https://github.com/user-attachments/assets/855366d1-c66c-4067-a4fb-67a9c1fd63a1" />
+
