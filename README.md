@@ -27,18 +27,24 @@ Welcome! This repository contains collection of projects, showcasing my skills i
 ---
 ## Table of Contents
 - [Project 1: Financial Growth Audit for B2B SaaS Company](https://github.com/DDatkunas/Capstone-Project)
-- [Project 2: Time of Conversion Analysis for an E-Commerce Company]
-- [Project 3: Cardiovascular Disease Predictive Modelling]
+- [Project 2: Time of Conversion Analysis for an E-Commerce Company](https://github.com/DDatkunas/Product-Analysis)
+- [Project 3: Cardiovascular Disease Predictive Modelling](https://github.com/DDatkunas/Cardiovascular-Disease-Predictive-Modelling)
 - [Project 4: CLV analysis for an E-Commerce Site]
 ---
 ## [Project 1: Financial Growth Audit for B2B SaaS Company](https://github.com/DDatkunas/Capstone-Project)
-The goal of this project was to find where the profit loss is occurring and where is the company's most feasible avenues for growth, was transformed using Pandas and loaded into BigQuery SQL to perform analysis. 
+The goal of this project was to find where the profit loss is occurring and what are the most feasible avenues for growth, for a fictional B2B SaaS company. The audit was completed by implementing the techniques of data exploration, customer segmentation, cohort analysis, CLV metrics and A/B testing.
 
 The results of the analysis are found inside the report and PowerBI dashboard.
 
 ---
 ## [Project 2: Time of Conversion Analysis for an E-Commerce Company](https://github.com/DDatkunas/Product-Analysis)
+The project evaluates how much time it takes for a user to make a purchase on a fictional e-commerce website. By tracking conversion speeds alongside key metrics like Average Order Value and acquisition channels, the analysis identifies critical checkout friction points and customer buying patterns.
+
+Check out the PowerBI dashboard for the full results of this analysis.
+
 ---
-## [Project 3: Cardiovascular Disease Predictive Modelling]
+## [Project 3: Cardiovascular Disease Predictive Modelling](https://github.com/DDatkunas/Cardiovascular-Disease-Predictive-Modelling)
+This project analyzes patient clinical data from the Framingham Heart Study to build a logistic regression model predicting 10-year coronary heart disease risk. I've chose to optimise for high recall as the system acts as an early warning tool to minimize missed cardiovascular cases in high-risk individuals.
+
 ---
 ## [Project 4: CLV analysis for an E-Commerce Site]
